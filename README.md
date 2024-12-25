@@ -35,4 +35,6 @@ Matplotlib / Seaborn: This library is used to draw visualizations.
   Thenw we will plot to see rides for category like buisness or personal
   or purpose of ride.
   
+  ![image](https://github.com/user-attachments/assets/3398bb3c-be63-47b8-9cc7-3c7559b98bd5)
+
 
